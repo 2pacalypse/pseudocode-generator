@@ -2,7 +2,7 @@
 
 Written in lex/yacc, turns simple C code to pseudocode.
 
-`make` and `./translator test/in6_for.c` will print
+`make && ./translator test/in6_for.c` will print
 
 ```
 FUNCTION main
